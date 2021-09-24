@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<h3>pqp</h3>
+
+<div><a href="https://www.manaresults.co.in/jntuh/download1.php?id=114DT052015.pdf&subcode=114DT">Question paper</a></div>
+<div><a href="https://www.manaresults.co.in/jntuh/download1.php?id=114DT052016.pdf&subcode=114DT">Question paper</a></div>
+<p>Notes</p>
+<div><a href="https://mrcet.com/downloads/digital_notes/ECE/II%20Year/Switching%20Theory%20and%20Logic%20Design.pdf">unit1</a></div>
+<div><a href="https://www.geethanjaliinstitutions.com/engineering/coursefiles/downloads/eee/stld.pdf">unit2</a></div>
+<div><a href="https://rajeev2007.github.io/STLD/Notes.html">unit3</a></div>
+<p>Textbooks</p>
+<div><a href="https://www.google.co.in/books/edition/SWITCHING_THEORY_AND_LOGIC_DESIGN/MCavDAAAQBAJ?hl=en&gbpv=1&dq=switching+theory+and+logic+design+textbook&printsec=frontcover">Textbook</a></div>
+<div><a href="https://www.google.co.in/books/edition/Switching_Theory_and_Logic_Design_For_JN/AhU8BAAAQBAJ?hl=en&gbpv=1&dq=switching+theory+and+logic+design+textbook&printsec=frontcover">Textbook</a></div>
+</html>

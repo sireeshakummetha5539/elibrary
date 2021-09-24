@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<p>chemistry</p>
+<div><a href="https://www.sbgstudy.com/documents/notes/btech/1%20year/chemistry/chemistry-Atomic-and-molecular-structure.pdf">units 1</a></div>
+<div><a href="https://www.sbgstudy.com/documents/notes/btech/1%20year/chemistry/chemistry-water-chemistry.pdf">unit 2</a></div>
+<div><a href="https://www.sbgstudy.com/documents/notes/btech/1%20year/chemistry/chemistry-periodic-properties.pdf">unit 3</a></div>
+<p>pqp</p>
+<div><a href="file:///C:/Users/Lenovo/Downloads/JNTUA%20JNTUH%20JNTUK_B%20Tech_2019_1%202_ECE_Applied%20Chemistry_FirstRanker.com%20(1).pdf">question paper</a></div>
+<div><a href="file:///C:/Users/Lenovo/Downloads/JNTUA%20JNTUH%20JNTUK_B%20Tech_2019_1%202_ECE_Applied%20Chemistry_FirstRanker.com%20(2).pdf">question paper</a></div>
+<div><a href="https://collegedunia.com/courses/bachelor-of-technology-btech-chemical-engineering">Chemistry</a></div>
+<p>textbook</p>
+<div><a href="https://open.umn.edu/opentextbooks/textbooks/219">textbook</a></div>
+<div><a href="https://www.amazon.com/Chemistry-Atoms-First-Paul-Flowers-ebook/dp/B07T2F336L/ref=pd_vtp_1/131-4397922-7490247?pd_rd_w=DYS9H&pf_rd_p=016e3697-91be-4dc2-9533-ef9350e7e73d&pf_rd_r=J2ECWB36SRKGBPR6NEMB&pd_rd_r=1a4b4f56-a847-43e3-b219-0eb8a7632fea&pd_rd_wg=yAJyY&pd_rd_i=B07T2F336L&psc=1">textbook</a></div>
+</html>

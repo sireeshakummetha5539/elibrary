@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<h1>Physics</h1>
+
+<div><a href="C:\Users\Lenovo\Downloads\Applied Physics R20 - Unit-1.pdf">unit 1</a></div>
+<div><a href="C:\Users\Lenovo\Downloads\Unconfirmed 705356.crdownload">unit 2</a></div>
+<div><a href="C:\Users\Lenovo\Downloads\Engg Physics R20 - Unit-3.pdf">unit 3</a></div>
+<div><a href="https://drive.google.com/file/d/0Bwd76AAN7f1tSFlfQ2VuLTEweXM/view?resourcekey=0-5Obg6EdnKM-AGhYPm8s_kA">notes</a></div>
+<p>PQP</p>
+<div><a href="file:///C:/Users/Lenovo/Downloads/Phy(1st&2nd)May2019.pdf">question papers</a></div>
+<div><a href="file:///C:/Users/Lenovo/Downloads/JNTUA%20JNTUH%20JNTUK_B%20Tech_2019_1%202_CIV_Physics_FirstRanker.com.pdf">question paper</a></div>
+<div><a href="https://semesters.in/engineering-physics-1st-year-syllabus-notes-pdf-btech/">questionpaper</a></div>
+<h3>Text Book</h3>
+<div><a href="https://www.google.co.in/books/edition/Textbook_Of_Engineering_Physics/fGo7BgUozoMC?hl=en&gbpv=1&dq=engineering+physics+textbook+pdf&printsec=frontcover">Textbook</a></div>
+<div><a href="https://www.google.co.in/books/edition/A_Textbook_of_Engineering_Physics/lTUNWOR_cDgC?hl=en&gbpv=1&dq=engineering+physics+textbook+pdf&printsec=frontcover">textbook</a></div>
+<div><a href="https://www.google.co.in/books/edition/A_Textbook_of_Engineering_Physics_Kerala/SIMrDAAAQBAJ?hl=en&gbpv=1&dq=engineering+physics+textbook+pdf&printsec=frontcover">textbook</a></div>
+</html>

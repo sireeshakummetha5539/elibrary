@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<p>pqp</p>
+<div><a href="https://rlacollege.edu.in/pdf/computer-ques/Operating%20Systems%20Question%20bank.pdf	">question paper</a></div>
+
+<div><a href="	https://brpaper.com/ptu/b-tech/cse/4/os">question paper</a></div>
+
+<div><a href="https://www.tutorialspoint.com/operating_system/os_overview.htm">unit1</a></div>
+
+<div><a href="https://www.geeksforgeeks.org/last-minute-notes-operating-systems/">unit2</a></div>
+
+<div><a href="https://www.tutorialspoint.com/operating_system/os_overview.htm"">unit3</a></div>
+
+
+</html>

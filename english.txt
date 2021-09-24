@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title></head>
+
+
+<h1>english</h1>
+<a href="‪C:\Users\Lenovo\Downloads\R20 English - All Units.pdf">unit 1</a></div>
+<div><a href="C:\Users\Lenovo\Downloads\Unconfirmed 644119.crdownload">unit2</a></div>
+<div><a href="C:\Users\Lenovo\Downloads\Unconfirmed 644119.crdownload">unit3</a></div>
+<p>PQP</p>
+<div><a href="file:///C:/Users/Lenovo/Downloads/JNTUA%20JNTUH%20JNTUK_B%20Tech_2019_1%202_CIV_English%20%20II_FirstRanker.com.pdf">question paper</a>
+<div><a href="file:///C:/Users/Lenovo/Downloads/JNTUA%20JNTUH%20JNTUK_B%20Tech_2019_1%202_CSE_English%20%20II_FirstRanker.com.pdf">question paper</a>
+<div><a href="https://www.smartzworld.com/notes/engineering-english-notes-pdf-material-free-download/">English</a></div>
+<h3>Textbooks</h3>
+<div><a href="https://www.google.co.in/books/edition/Take_off/9UsHIgAACAAJ?hl=en">textbooks</a></div>
+<div><a href="https://www.google.co.in/books/edition/English_for_Science_and_Engineering/ZB-UHwAACAAJ?hl=en&kptab=overview">textbook</a></div>
+</html>

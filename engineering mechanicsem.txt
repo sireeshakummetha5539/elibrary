@@ -1,0 +1,11 @@
+<!DOCTYPE html><html>
+<head>
+<title>pdf</title>
+<p>pqp</p>
+<div><a href="https://www.smartzworld.com/notes/engineering-mechanics-pdf-notes-em-pdf-notes/">question paper</a></div>
+<div><a href="https://www.vssut.ac.in/lecture_notes/lecture1423904717.pdf">question paper</a></div>
+<div><a href="https://mrcet.com/downloads/digital_notes/ME/II%20year/EM%20%20Digital%20Notes.pdf">unit1</a></div>
+<div><a href="https://www.iitg.ac.in/rkbc/me101/Presentation/L01-03.pdf">unit2</a></div>
+<div><a href="https://www.iitg.ac.in/rkbc/me101/Presentation/L01-03.pdf">unit3</a></div>
+
+</html>

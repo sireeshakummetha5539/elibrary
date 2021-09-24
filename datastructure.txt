@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdf's</title></head>
+<p>pqp</p>
+<div><a href="https://drive.google.com/file/d/1aa4m4TfYGygRIGiiSsLfRrvXXl4PIouV/view">Question paper</a></div>
+<div><a href="https://drive.google.com/file/d/1lkmCNrvYdce0uGG4o4Zbt_h8WR42ale0/view">Question paper</a></div>
+<p>Notes</p>
+<div><a href="https://www.iare.ac.in/sites/default/files/lecture_notes/IARE_DS_LECTURE_NOTES_2.pdf">unit1</a></div>
+<div><a href="https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf">unit2</a></div>
+<div><a href="https://www.iare.ac.in/sites/default/files/lecture_notes/IARE_DS_LECTURE_NOTES_2.pdf">unit3</a></div>
+<p>Textbooks
+<div><a href="https://www.google.co.in/books/edition/Data_Structures_and_Algorithms/al0wGpxm-3UC?hl=en&gbpv=1&dq=data+structure+book&printsec=frontcover">textbook</a></div>
+<div><a href="https://www.google.co.in/books/edition/Open_Data_Structures/ZZCJvrDe5bIC?hl=en&gbpv=1&dq=data+structure+book&printsec=frontcover">textbook</a></div>
+</html>

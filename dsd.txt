@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<p>pqp</p>
+<div><a href="https://drive.google.com/file/d/1pY4-FUXomLfKA-DmSVNUuvoYmLAqirZR/view">question paper</a></div>
+<div><a href="https://drive.google.com/file/d/1JDIIKzypsyUAim5PHJwbsrmsvoNjhXq2/view">question paper</a></div>
+<p>Notes</p>
+<div><a href="https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DIGITAL%20SYSTEM%20DESIGN-18.pdf">unit1</a></div>
+<div><a href="https://drive.google.com/file/d/0B9ioMJAGG2TmNXFRVEpGcllxMEk/view?resourcekey=0-mKkJBfC0UgvAQ1tOfaDi4Q">unit2</a></div>
+<div><a href="https://drive.google.com/file/d/0B9ioMJAGG2TmdlI5MHpxcXl2Umc/view?resourcekey=0-QO21WfAvihZdaQQHP0Ky6A">unit3</a></div>
+</html>

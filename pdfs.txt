@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<style>
+h3{
+background-color:orange;
+text-align:left;
+}
+</style><h3>
+<title>for both b.tech and m.tech</title><form action="/action_page.php'>
+<div><input type="radio" id="textbooks" name="button" value="textbooks">
+<label for="textbooks">TEXTBOOKS</label></div>
+<div><input type="radio" id="pdfs" name="button" value="Pdfs">
+<label for="pdfs">PDF'S</label></div>
+<div><input type="radio" id="doc" name="button" value="doc">
+<label for="doc">DOCUMENT</label></div>
+<div><input type="radio" id="notes" name="button" value="notes">
+<label for="notes">NOTES</label></div>
+<div><input type="radio" id="pqp" name="button" value="pqp">
+<label for="doc">PQP</label></div>
+<div><input type="radio" id="techinicalmagazines" name="button" value="technicalmagazines">
+<label for="doc">TECHNICAL MAGAZINES</label></div></h3></form>
+<h2>b.tech SEMESTER:</h2>
+<div><input type="radio" id="I year" name="button" value="Iyear">
+<label for="I sem">I year (both I sem,II sem)</label></div>
+<div><input type="radio" id="III sem" name="button" value="III sem">
+<label for="III sem">III SEM</label></div>
+<div><input type="radio" id="IV sem" name="button" value="IV sem">
+<label for="IV sem">IV SEM</label></div>
+<div><input type="radio" id="V sem" name="button" value="V sem">
+<label for="V sem">V SEM</label></div>
+
+<div><input type="submit" type="button":</td></tr></div>
+
+
+<h2>m.tech</h2>
+<div><input type="radio" id="I sem" name="button" value="Isem">
+<label for="I sem">I sem</label></div>
+<div><input type="radio" id="II sem" name="button" value="II sem">
+<label for="II sem">II sem</label></div>
+<div><input type="radio" id="III sem" name="button" value="III sem">
+<label for="III sem">III SEM</label></div>
+<div><input type="radio" id="IV sem" name="button" value="IV sem">
+<label for="IV sem">IV SEM</label></div>
+<div><input type="submit" type="button":</td></tr></div>
+<a href="C:\Users\Lenovo\OneDrive\Desktop\siree\ece.html">Nextpage</a>
+
+
+</html>
+

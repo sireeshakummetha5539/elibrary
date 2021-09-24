@@ -1,0 +1,48 @@
+<!DOCTYPE html><html>
+<head>
+<script>
+body{
+background-color:lightgreen;
+}</head><body>
+function checkpassword(form)
+{
+passward1=form.passward1.value;
+passward2=form.passward2.value;
+if(passward1=='')
+alert("please enter passward");
+else if(passward2=='')
+alert("please Enter Conform  Passward");
+elseif(passward1!=passward2)
+{
+alert("\n Passward Didnot Match Please Check it");
+return false;
+}
+else{
+alert("passward match : WELCOME");
+ return true;
+}
+}
+</script></head>
+<body><form onsubmit="Return check Passward">
+<table border="1" align="center">
+<tr><td>Username:</td>
+<td><input type=text name=></td></tr>
+<tr><td>Passward:</td>
+<td><input type=text name=></td></tr>
+<tr><td>Conform Passward:</td>
+<td><input type="text" name="passward2" pattern="(?=.*[a-z]))(?=.*[A-Z]))"></td></tr>
+
+ <tr><td><button type="submit" class="button">submit</button></div>
+ <tr><td><button type="reset" value="Reset">Reset</button></tr>
+<div><td><input type="text" name="text" value="Already have account?"></td></tr></div>
+<div><td><input type="button"  value="Signin" type=" Signin">:</td></tr></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\radiobuttons.html">HOMEPAGE</a></nav>
+<div><a href="https://www.electronicsforu.com/mini-projects-ideas">Projects |<a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\branches.html">Branches |<a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\contact.html">Contact |<a></div>
+
+
+
+
+
+</body>

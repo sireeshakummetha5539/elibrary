@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<style>
+h3{
+text-align:left;
+}
+body{
+background-image:url('edu.jpg');
+background-color:lightgreen;
+
+}
+</style>
+<body>
+<h3>I YEAR</h3>
+<h2>ECE and CSE and EEE</h2>
+
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\clanguagepdf.html">C language</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\physics.html">physics</a></div>
+<div><a href="‪C:\Users\Lenovo\OneDrive\Desktop\siree\english.html">english</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\chemistry.html">chemistry</a></div>
+
+<h1>IIIsem</h1>
+<h3>EEE</h3>
+
+<div><a href="‪C:\Users\Lenovo\OneDrive\Desktop\siree\eee elicticl circuits.html">Electrical circuits</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\electical machineseee.html">Electrical machines1</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\control systems.html">control system</a></div>
+ 
+
+<h3>CSE</h3>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\m3.html">M3</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\dbms.html">DBMS</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\discrete maths.html">discrete mathematics</a></div>
+
+
+
+<h3>ECE</h3>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\edc.html">EDC</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\ss.html">SS</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\stld.html">Stld</a></div>
+
+
+<h1>IV sem</h1>
+<h3>EEE</h3>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\m4.html">M4</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\mefa.html">Mefa</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\elctrical machines2.html">Electrical machines2</a></div>
+
+
+
+<h3>CSE</h3>
+
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\probability and statictics.html">Probability statistics</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\co.html">CO</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\softwareengineering.html">software engineering</a></div>
+
+<h3>ECE</h3>
+
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\emtl.html">EMTL</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\datastructure.html">Datastructure</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\eca.html">ECA</a></div>
+<div><a href="‪C:\Users\Lenovo\OneDrive\Desktop\siree\co.html">CO</a></div>
+
+<h1>V sem</h1>
+<h3>CSE</h3>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\operating system.html">operator system</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\computer network.html">Computer network</a></div>
+<div><a href="‪C:\Users\Lenovo\OneDrive\Desktop\siree\softwaretesting.html">software testing</a></div>
+
+<h3>EEE</h3>
+
+‪<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\em.html">EM</a></div>
+‪<div><a href="">EPT</a></div>
+‪<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\pe.html">PE</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\em3.html">EM3</a></div>
+
+<h3>ECE</h3>
+
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\dcs.html">DCS</a></div>
+<div><a href="‪C:\Users\Lenovo\OneDrive\Desktop\siree\dsd.html">DSD</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\acs.html">ACS</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\co.html">CO</a></div>
+</body>
+</html>

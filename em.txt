@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<div><a href="https://www.manaresults.co.in/jntuh/download.php?subcode=131AE">question paper</a></div>
+<div><a href="https://www.manaresults.co.in/jntuh/download.php?subcode=131AE">question paper</a></div>
+<p>Notes</p>
+<div><a href="https://mrcet.com/downloads/digital_notes/EEE/31082020/Power%20Electronics.pdf">unit1</a></div>
+<div><a href="https://www.ktuqbank.com/p/btech-study-materials-2nd-year-eee.html">unit2</a></div>
+<div><a href="https://www.ktuqbank.com/p/btech-study-materials-2nd-year-eee.html">unit3</a></div>
+
+
+
+</html>

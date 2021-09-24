@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<h4>electrical circuits</h4>
+
+<div><a href="file:///C:/Users/Lenovo/Downloads/JNTUA%20JNTUH%20JNTUK_B%20Tech_2019_2%202_ECE_Electronic%20Circuit%20Analysis%20(R16)_FirstRanker.com.pdf"><question papers</a></div>
+<div><a href="file:///C:/Users/Lenovo/Downloads/JNTUA%20JNTUH%20JNTUK_B%20Tech_2019_2%202_ECE_Electronic%20Circuit%20Analysis%20(R16)_FirstRanker.com%20(1).pdf"><question papers</a></div>
+<p>notes</p>
+<div><a href="https://mrcet.com/downloads/digital_notes/HS/5%20Electrical%20Circuits.pdf">unit1</a></div>
+<div><a href="file:///C:/Users/Lenovo/Downloads/Electrical%20Circuits.pdf">unit 2</a></div>
+<div><a href="file:///C:/Users/Lenovo/Downloads/Electrical%20Circuits_U2.pdf">unit 3</a></div>
+<div><a href="C:\Users\Lenovo\OneDrive\Desktop\siree\eee elicticl circuits.html">electrical circuits</a></div>
+<p>textbook</p>
+<div><a href="https://www.amazon.in/Operational-Amplifiers-Linear-David-Bell/dp/0195696131/ref=pd_lpo_1?pd_rd_i=0195696131&psc=1">textbook</a></div>
+<div><a href="https://www.amazon.in/Electronic-Devices-Circuits-David-Bell/dp/019569340X/ref=pd_lpo_2?pd_rd_i=019569340X&psc=1">textbook</a></div>
+</html>

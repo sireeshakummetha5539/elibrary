@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<h3>pqp</h3>
+<div><a href="https://www.manaresults.co.in/download1.php?id=RT31054112015.pdf&subcode=RT31054">question paper</a></div>
+<div><a href="https://www.manaresults.co.in/download1.php?id=RT31054052016.pdf&subcode=RT31054">question paper</a></div>
+<p>Notes</p>
+<div><a href="https://mrcet.com/downloads/digital_notes/IT/Database%20Management%20Systems.pdf">unit1</a></div>
+<div><a href="http://www.svecw.edu.in/Docs%5CITIIBTechIISemLecDBMS.pdf">qunit2</a></div>
+<div><a href="http://dsc.du.ac.in/wp-content/uploads/2020/03/DBMS-Complete-Notes.pdf">unit3</a></div>
+<p>Textbooks</p>
+<div><a href="https://www.google.co.in/books/edition/Fundamentals_of_Database_Systems/v_j0CSS3m7MC?hl=en&gbpv=1&dq=dbms+textbook&printsec=frontcover">textbook</a></div>
+<div><a href="https://www.google.co.in/books/edition/Database_Management_System_DBMS_A_Practi/FTUJNA4lLdAC?hl=en&gbpv=1&dq=dbms+textbook&printsec=frontcover">textbook</a></div>
+</html>

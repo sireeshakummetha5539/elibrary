@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>pdfs</title>
+<p>pqp</p>
+<div><a href="	R1621011102017.pdf">Question paper</a></div>
+<div><a href="	R1621011102019.pdf">Question paper</a></div>
+<p>Notes</p>
+<div><a href="http://www2.aueb.gr/users/demos/pro-stat.pdf">unit1</a></div>
+<div><a href="https://mrcet.com/downloads/digital_notes/IT/PROBABILITY%20&%20STATISTICS%20(R17A0024).pdf">unit2</a></div>
+<div><a href="http://users.encs.concordia.ca/~doedel/courses/comp-233/slides.pdf">unit3</a></div>
+<p>Textbooks</p>
+<div><a href="https://www.google.co.in/books/edition/Notes_and_Exercises_for_Introductory_Sta/udXkoAEACAAJ?hl=en">Textbook</a></div>
+<div><a href="https://www.google.co.in/books/edition/Inequalities_in_Statistics_and_Probabili/neFsjyQrCEwC?hl=en&gbpv=1&dq=probability+and+statistics+notes&printsec=frontcover">Textbook</a></div>
+</html>

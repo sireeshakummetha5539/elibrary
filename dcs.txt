@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>pdfs</title>
+</head>
+<p>pqp</p>
+<div><a href="https://www.manaresults.co.in/download.php?subcode=RT42021	">question paper</a></d>
+<div><a href="https://www.manaresults.co.in/download.php?subcode=RT42021">question paper</a></d>
+<p>Notes</p>
+<div><a href="https://lecturenotes.in/subject/167/design-of-concrete-structures-dcs">unit1</a></d>
+<div><a href="https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DIGITAL%20COMMUNICATIONS.pdf">unit2</a></d>
+<div><a href="http://www.mgcub.ac.in/pdf/material/202004290051377727b35713.pdf">unit3</a></d>
+</html>
